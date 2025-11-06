@@ -31,3 +31,5 @@ public class AboutActivity extends AppCompatActivity {
         }
     }
 }
+
+String k = BuildConfig.WEATHER_API_KEY;
